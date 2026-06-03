@@ -1,2 +1,20 @@
-# GRINDING_DSA_TILL_I_GET_A_JOB
-Complete DSA preparation in C++ and Python with notes, problems, and interview preparation.
+# DSA From Scratch To Job
+
+Goal:
+Master Data Structures and Algorithms and prepare for software engineering interviews.
+
+Languages:
+- C++
+- Python
+
+Progress:
+
+- [ ] Arrays
+- [ ] Strings
+- [ ] Linked List
+- [ ] Stack
+- [ ] Queue
+- [ ] Trees
+- [ ] Graphs
+- [ ] Dynamic Programming
+
